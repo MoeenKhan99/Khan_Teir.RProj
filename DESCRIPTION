@@ -1,0 +1,14 @@
+Package: Khan Teir
+Type: Package
+Title:  Creates A Teir List Allowing For Ranking of Observations
+Version: 0.0.0.90000
+Author: Moeen Khan
+Maintainer: The package maintainer <Khan36@usf.edut>
+Description: The Khan Teir package provides a simple way to create and customize
+    tier lists, which can be used to rank and categorize items based on user-defined
+    criteria. This is particularly useful for data visualization, enabling users to
+    quickly organize and display ranked information. Comparing thier values to one another.
+    It includes functions for creating, updating, and visualizing tier lists in R.
+License: CC0
+Encoding: UTF-8
+LazyData: true
